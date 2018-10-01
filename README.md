@@ -1,0 +1,1 @@
+﻿https://fetch-weather-d4ab6.firebaseapp.com
